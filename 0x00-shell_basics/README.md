@@ -3,3 +3,5 @@ pwd print out the absolute path name or in order word it print out your current 
 Why?
 ls  list out the contents of my current working directory
 Why?
+cd changes the working directory to home directory
+Why?
