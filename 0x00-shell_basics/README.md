@@ -10,4 +10,6 @@ Why?
 ls -al display current directory contents including hidden files starting with dots
 Why?
 ls -la display current directory content in long format with user group IDs display numerically and hidden file
+Why?
+mkdir ls use to create a directory name
 Why? 
