@@ -17,4 +17,6 @@ mv Is use to move file or directories to another file or directory
 Why?
 rm this delete files
 Why?
+rm -r this delete a directory that is in another directory
+Why?
 
