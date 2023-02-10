@@ -14,4 +14,7 @@ Why?
 mkdir ls use to create a directory name
 Why?
 mv Is use to move file or directories to another file or directory
-Why? 
+Why?
+rm this delete files
+Why?
+
