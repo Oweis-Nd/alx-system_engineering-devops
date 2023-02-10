@@ -7,3 +7,5 @@ cd changes the working directory to home directory
 Why?
 ls -l display current directory contents in a long format
 Why?
+ls -al display current directory contents including hidden files starting with dots
+Why?
