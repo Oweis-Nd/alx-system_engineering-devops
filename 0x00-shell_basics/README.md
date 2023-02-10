@@ -12,4 +12,6 @@ Why?
 ls -la display current directory content in long format with user group IDs display numerically and hidden file
 Why?
 mkdir ls use to create a directory name
+Why?
+mv Is use to move file or directories to another file or directory
 Why? 
