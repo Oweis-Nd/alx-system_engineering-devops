@@ -25,4 +25,6 @@ ls -la .. this list all files even the ones with name beginning with a period ch
 Why?
 file /tmp/iamafile this print the type of the named
 Why?
+ln -s this link a file to another file
+Why?
 
