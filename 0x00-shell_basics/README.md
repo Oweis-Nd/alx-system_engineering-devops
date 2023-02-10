@@ -23,4 +23,6 @@ cd .. this changes the current directory to previous directory
 Why?
 ls -la .. this list all files even the ones with name beginning with a period charater, that are hidden in the currentdirectory and the parent of the working directory in long format
 Why?
+file /tmp/iamafile this print the type of the named
+Why?
 
