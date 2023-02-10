@@ -19,4 +19,6 @@ rm this delete files
 Why?
 rm -r this delete a directory that is in another directory
 Why?
+cd .. this changes the current directory to previous directory
+Why?
 
