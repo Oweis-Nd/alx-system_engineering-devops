@@ -7,3 +7,5 @@ Groups print all groups the current user is part of
 Why?
 sudo chown changes the owner of a file
 Why?
+touch this command create an empty file
+Why?
