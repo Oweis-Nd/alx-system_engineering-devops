@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod --reference this set the mode of the file to as same as to another file mode
+Why?

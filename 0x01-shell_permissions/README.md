@@ -19,3 +19,5 @@ chmod 007 this set permission to other user, to the file, no permission to the o
 Why?
 chmod 753 this set the mode of the file to -rwxr-r-wx
 Why?
+chmod --reference this set the mode of the file to as same as another file
+Why?
