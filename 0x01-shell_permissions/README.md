@@ -5,3 +5,5 @@ Whoami print the effective username of the current user
 Why?
 Groups print all groups the current user is part of
 Why?
+sudo chown changes the owner of a file
+Why?
