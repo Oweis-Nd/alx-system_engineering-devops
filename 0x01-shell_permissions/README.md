@@ -9,3 +9,5 @@ sudo chown changes the owner of a file
 Why?
 touch this command create an empty file
 Why?
+chmod u+x this change the permission of a file or directory and add execution permission to the owner of the file
+Why?
