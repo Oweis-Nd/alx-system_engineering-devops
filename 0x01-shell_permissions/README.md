@@ -15,3 +15,5 @@ chmod ug+x,o+r this add execute permission to the owner and the group owner, and
 Why?
 chmod ugo+x this add execution permission to the owne and the group owner and to other user, to the file
 Why?
+chmod 007 this set permission to other user, to the file, no permission to the owner and to the group
+Why?
