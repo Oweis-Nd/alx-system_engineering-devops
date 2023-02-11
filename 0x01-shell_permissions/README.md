@@ -17,3 +17,5 @@ chmod ugo+x this add execution permission to the owne and the group owner and to
 Why?
 chmod 007 this set permission to other user, to the file, no permission to the owner and to the group
 Why?
+chmod 753 this set the mode of the file to -rwxr-r-wx
+Why?
