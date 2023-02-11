@@ -21,3 +21,5 @@ chmod 753 this set the mode of the file to -rwxr-r-wx
 Why?
 chmod --reference this set the mode of the file to as same as another file
 Why?
+chmod -R +x . this add execution permission to all subdirectories of the current directory for the owner, the group owner and all other users
+Why?
