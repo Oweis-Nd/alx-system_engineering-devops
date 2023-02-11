@@ -13,3 +13,5 @@ chmod u+x this change the permission of a file or directory and add execution pe
 Why?
 chmod ug+x,o+r this add execute permission to the owner and the group owner, and read permission to other user, to the file
 Why?
+chmod ugo+x this add execution permission to the owne and the group owner and to other user, to the file
+Why?
