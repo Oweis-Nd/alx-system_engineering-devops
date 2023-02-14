@@ -34,3 +34,7 @@ sort | uniq -u this take a list of words as input and print ony words that appea
 Why?
 grep -i this display lines contains patterns
 Why?
+grep -c -i this display the number lines contains pattern
+Why?
+grep -i "root" -A 3 this display line containing pattern "root"  and 3 lines after them in the file
+Why
