@@ -26,3 +26,5 @@ tr -d this remove all letters from small letter to capital letter
 Why?
 tr "A" "Z" | tr "c" "e" this replace all charaters A and c from input to Z and e respectively
 Why?
+grep '^[A-Za-z]' /etc/ssh/sshd_config this display al line the file /etc/ssh/sshd_config starting with a letter. include capital letter as well
+Why?
