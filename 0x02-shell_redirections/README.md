@@ -32,3 +32,5 @@ grep '^[A-Za-z]' /etc/ssh/sshd_config this display al line the file /etc/ssh/ssh
 Why?
 sort | uniq -u this take a list of words as input and print ony words that appear exactly once. 
 Why?
+grep -i this display lines contains patterns
+Why?
