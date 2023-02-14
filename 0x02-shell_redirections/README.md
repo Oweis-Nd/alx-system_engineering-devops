@@ -22,3 +22,5 @@ cut -d ':' -f 1,6 and the file display all user and their home directories sorte
 Why?
 rev this reverse the input
 Why?
+tr -d this remove all letters from small letter to capital letter
+Why?
