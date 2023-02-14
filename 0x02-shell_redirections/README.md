@@ -14,3 +14,7 @@ echo best school >  \\\*\\\\"'\"Best School\"\\'"\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*
 Why?
 ls -la > and the file this write into the file, if the  already exist it will overwrite into the file, but if it doesn't exist it will create the file
 Why?
+find . -type f -name '*.js' -delete this delete all regular files with a js exetension that are present in the current directory and all it subfolders
+Why?
+find . -type d -path './*' print | wc -l this count the number of directory and subdirectory in the current directory and hidden directories
+Why?
