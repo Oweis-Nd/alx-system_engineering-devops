@@ -44,3 +44,5 @@ grep -i "root" -A 3 this display line containing pattern "root"  and 3 lines aft
 Why?
 grep -i -v "bin" this display all the line the file that do not contain the pattern "bin"
 Why?
+find . -empty | rev | cut -d '/' -f 1 | rev this command find all empty files and directories in the current directory and subdirectories
+Why? 
