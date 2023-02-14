@@ -6,3 +6,5 @@ cat can still be use to display two or more files contents
 Why?
 tail print out the last 10 line of a file
 Why?
+head print out the first 10 line of a file
+Why?
