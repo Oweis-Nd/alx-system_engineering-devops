@@ -20,3 +20,5 @@ find . -type d -path './*' print | wc -l this count the number of directory and 
 Why?
 cut -d ':' -f 1,6 and the file display all user and their home directories sorted by user, based on the file
 Why?
+rev this reverse the input
+Why?
