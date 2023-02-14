@@ -18,3 +18,5 @@ find . -type f -name '*.js' -delete this delete all regular files with a js exet
 Why?
 find . -type d -path './*' print | wc -l this count the number of directory and subdirectory in the current directory and hidden directories
 Why?
+cut -d ':' -f 1,6 and the file display all user and their home directories sorted by user, based on the file
+Why?
