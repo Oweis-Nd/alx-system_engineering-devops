@@ -24,3 +24,5 @@ rev this reverse the input
 Why?
 tr -d this remove all letters from small letter to capital letter
 Why?
+tr "A" "Z" | tr "c" "e" this replace all charaters A and c from input to Z and e respectively
+Why?
