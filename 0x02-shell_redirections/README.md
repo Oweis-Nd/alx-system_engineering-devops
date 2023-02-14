@@ -37,4 +37,6 @@ Why?
 grep -c -i this display the number lines contains pattern
 Why?
 grep -i "root" -A 3 this display line containing pattern "root"  and 3 lines after them in the file
-Why
+Why?
+grep -i -v "bin" this display all the line the file that do not contain the pattern "bin"
+Why?
