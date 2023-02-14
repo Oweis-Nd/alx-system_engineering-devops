@@ -18,6 +18,8 @@ find . -type f -name '*.js' -delete this delete all regular files with a js exet
 Why?
 find . -type d -path './*' print | wc -l this count the number of directory and subdirectory in the current directory and hidden directories
 Why?
+ls -t1 | head -n 10 this display the 10 newest files in the current directory. one file per line, sorted from the newest to the oldest
+Why?
 cut -d ':' -f 1,6 and the file display all user and their home directories sorted by user, based on the file
 Why?
 rev this reverse the input
