@@ -12,3 +12,5 @@ head -3,file,pipe.tail,-1 this display the third line of the file
 Why?
 echo best school >  \\\*\\\\"'\"Best School\"\\'"\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) this create the file
 Why?
+ls -la > and the file this write into the file, if the  already exist it will overwrite into the file, but if it doesn't exist it will create the file
+Why?
