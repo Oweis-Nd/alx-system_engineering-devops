@@ -10,3 +10,5 @@ head print out the first 10 line of a file
 Why?
 head -3,file,pipe.tail,-1 this display the third line of the file
 Why?
+echo best school >  \\\*\\\\"'\"Best School\"\\'"\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) this create the file
+Why?
