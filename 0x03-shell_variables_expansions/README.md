@@ -21,3 +21,5 @@ echo $(($POWER/$DIVIDE)) This print the result of power divided by divide follow
 Why?
 echo $(($BREATH**$LOVE)) this display the result of BREATH to the power LOVE
 Why?
+echo $((2#$BINARY)) This convert a number from base 2 to base 10
+Why?
