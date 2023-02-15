@@ -15,3 +15,7 @@ Best= this create a new local variable
 Why?
 export BEST= this create a new global variable
 Why?
+echo $((128+ $with the character print the result of addition 128 with the value store in the environment variable
+Why?
+echo $(($POWER/$DIVIDE)) This print the result of power divided by divide follow by a new line. 
+Why?
