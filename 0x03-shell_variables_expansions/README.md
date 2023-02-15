@@ -19,3 +19,5 @@ echo $((128+ $with the character print the result of addition 128 with the value
 Why?
 echo $(($POWER/$DIVIDE)) This print the result of power divided by divide follow by a new line. 
 Why?
+echo $(($BREATH**$LOVE)) this display the result of BREATH to the power LOVE
+Why?
