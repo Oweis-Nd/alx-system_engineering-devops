@@ -13,3 +13,5 @@ set  this list all local variable and environment variables, and functions
 Why?
 Best= this create a new local variable
 Why?
+export BEST= this create a new global variable
+Why?
