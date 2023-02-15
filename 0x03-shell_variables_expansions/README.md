@@ -23,3 +23,5 @@ echo $(($BREATH**$LOVE)) this display the result of BREATH to the power LOVE
 Why?
 echo $((2#$BINARY)) This convert a number from base 2 to base 10
 Why?
+echo {a..z}{a..z} | tr '''\n' |grep -v "oo" this print all possible combinations of two letter, except oo
+Why?
