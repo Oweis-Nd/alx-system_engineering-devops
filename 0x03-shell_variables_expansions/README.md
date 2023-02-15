@@ -31,3 +31,7 @@ task 15 tr `echo {a..z} | tr -d ' '` `echo {n..z} $(echo {a..m}) | tr -d ' '` | 
 Why?
 task 17 echo $(printf %o $(($((5#$(echo $WATER | tr 'water' '01234'))) + $((5#$(echo $STIR | tr 'stir.' '01234'))))) | tr '01234567' 'bestchol') this add two numbers stored in the environment variables WATER and STIR and prints the result
 Why?
+task 12 12 - echo {a..z}{a..z} | tr " " "\n" | grep -v "oo" this prints all possible combinations of two letters, except oo.
+
+Letters are lower cases, from a to z
+Why?
