@@ -35,3 +35,6 @@ task 12 12 - echo {a..z}{a..z} | tr " " "\n" | grep -v "oo" this prints all 
 
 Letters are lower cases, from a to z
 Why?
+task 3 3 ‑ echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1)) this counts the number of directories in the PATH.
+Why?
+
