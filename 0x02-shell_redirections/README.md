@@ -45,4 +45,6 @@ Why?
 grep -i -v "bin" this display all the line the file that do not contain the pattern "bin"
 Why?
 find . -empty | rev | cut -d '/' -f 1 | rev this command find all empty files and directories in the current directory and subdirectories
+Why?
+tail -n +2 | cut -f -1 | sort -k 1 | uniq -c | sort -rnk 1 | head -11 | rev | cut -d '' -f -1 | | rev  # this parses web servier logs in TSV as input and display the 11 host or IP addresses which did the most request.
 Why? 
