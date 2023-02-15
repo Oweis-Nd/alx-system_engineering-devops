@@ -7,4 +7,9 @@ PATH=$PATH:/action this add action to the PATH . /action
 Why?
 echo $PATH | tr ':' '\n' | wc -l this count the number of directories in the PATH
 Why?
-printenv  this list enviroment variables
+printenv  this list environment variables
+Why?
+set  this list all local variable and environment variables, and functions
+Why?
+Best= this create a new local variable
+Why?
